@@ -905,3 +905,7 @@ code {
     font-size: smaller;
     margin: 0.3rem 0;
 }
+
+.input-with-value {
+    font-size: 14px !important;
+}
